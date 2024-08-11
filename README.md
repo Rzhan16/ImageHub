@@ -1,4 +1,4 @@
-# Image_Sharing
+# ImageHub
 A full stack image sharing website that allows user to share online at any time. (Self-studied relevant frameworks from Udemy)
 
 Demo images:
