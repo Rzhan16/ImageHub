@@ -1,6 +1,5 @@
 # ImageHub
-A full stack image sharing website that allows user to share online at any time. (Self-studied relevant frameworks from Udemy)
-
+A comprehensive full-stack image sharing platform that empowers users to seamlessly share images online at any time. 
 Demo images:
 1. Dashboard
 ![mern7](https://github.com/Pumpkinmann/Image_Sharing/assets/96442304/02e21998-138c-4543-9a35-320da7500714)
